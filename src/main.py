@@ -5,3 +5,6 @@ def login():
 
 def isValidUser():
     pass
+
+def logout():
+    pass
