@@ -12,3 +12,6 @@ def logout():
 
 def login_with_facebook():
     pass
+
+def login_with_google():
+    pass
